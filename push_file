@@ -2,9 +2,9 @@ echo "# PubConfigurationFiles" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/xxq1125/PubConfigurationFiles.git
-git config --local user.name xxq1125
-git config --local user.email xiao120225@gmail.com
+git remote add origin https://github.com/xxxxxxxx/PubConfigurationFiles.git
+git config --local user.name xxxxxxxx
+git config --local user.email xxxxxxx
 git commit -m "first commit"
 git push -u origin master
 
